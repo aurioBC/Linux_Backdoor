@@ -1,7 +1,7 @@
 Linux_Backdoor
 --------------
 
-A Linux backdoor developer in C.
+A Linux backdoor applications written in C.
 
 Allows for the following:
 
@@ -12,3 +12,5 @@ Allows for the following:
   > Key logging
 
   > Data exfiltration 
+  
+Please read the Design Doc for further details.
